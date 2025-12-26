@@ -1,1 +1,6 @@
 @import "tailwindcss";
+.clear{
+    background-image: url("./фон.png");
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
